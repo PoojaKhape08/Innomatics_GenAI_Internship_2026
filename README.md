@@ -1,2 +1,17 @@
-# Logic_building_Task1
-Python logic building tasks completed using Jupyter Notebook as part of Innomatics GenAI Internship. Includes user login check, pass/fail analyzer, data cleaning, message length analysis, and error detection with proper comments and structured code.
+# Logic Building Task 1 – Python
+
+This repository contains my submission for Internship Logic Building Task 1.
+
+Tasks included:
+- User Login Check
+- Pass/Fail Analyzer
+- Data Cleaner
+- Message Length Analyzer
+- Error Message Detector
+
+Tools Used:
+- Python
+- Jupyter Notebook
+
+This task helped me improve basic Python logic building, conditions, loops, and string handling.
+
