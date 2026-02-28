@@ -60,7 +60,15 @@ It includes logic building exercises, Python practice problems, data processing,
 - Movie Theatre Seat Occupancy Analyzer  
 - Cloud Server Load Classification System  
 - Smart Classroom Resource Usage Monitor  
-- Online Event Registration Capacity Controller  
+- Online Event Registration Capacity Controller
+
+###Task 7 – OOPS (Object-Oriented Programming Basics)
+- Smart Light Controller
+- Employee ID Card System
+- Mobile Contact Record
+- Product Price Tag Generator
+- Movie Rating Display System
+- Delivery Address Manager
 
 ---
 
