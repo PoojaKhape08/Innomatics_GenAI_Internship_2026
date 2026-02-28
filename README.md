@@ -62,7 +62,7 @@ It includes logic building exercises, Python practice problems, data processing,
 - Smart Classroom Resource Usage Monitor  
 - Online Event Registration Capacity Controller
 
-###Task 7 – OOPS (Object-Oriented Programming Basics)
+### 🟢 Task 7 – OOPS (Object-Oriented Programming Basics)
 - Smart Light Controller
 - Employee ID Card System
 - Mobile Contact Record
